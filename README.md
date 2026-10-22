@@ -26,10 +26,22 @@ The objective is to explore product performance, sales trends over time, sales t
 - TOP
 
 ## Key Findings
-*To be completed after analyzing the query results.*
+
+1. **Product revenue:** Mountain-200 Black, 38 generated the highest product revenue, totaling 4,400,592.80.
+2. **Sales volume:** AWC Logo Cap was the highest-selling product by quantity, with 8,311 units sold.
+3. **Annual performance:** 2013 recorded the highest annual revenue at 43,622,479.05.
+4. **Territory performance:** Southwest generated the highest territory revenue, totaling 24,184,609.60.
+5. **Customer performance:** Brakes and Gears was the highest-revenue customer, generating 877,107.19.
 
 ## Business Recommendations
-*To be completed based on the findings.*
+
+1. **Review high-revenue products:** Investigate the sales drivers behind the Mountain-200 Black, 38, and assess whether similar product variants have comparable performance.
+2. **Evaluate high-volume products:** Investigate the demand for AWC Logo Cap and consider whether its sales volume creates opportunities for cross-selling or bundling.
+3. **Investigate annual trends:** Compare revenue across years and examine year-over-year changes to understand the factors behind the 2013 peak.
+4. **Study territory performance:** Examine Southwest's product mix, customer base, and order patterns to identify practices that may be useful in other territories.
+5. **Review key customer relationships:** Analyze Brakes and Gears' purchasing frequency and product mix to identify opportunities to strengthen the relationship.
 
 ## Data Validation
-Annual revenue was reconciled against total sales-detail revenue to check the consistency of the calculations.
+
+Total revenue from sales-detail records was reconciled against the sum of annual revenue figures. The totals matched, supporting the consistency of the annual revenue calculation.
+
