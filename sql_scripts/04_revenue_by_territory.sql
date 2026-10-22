@@ -1,3 +1,5 @@
+-- Which sales territories generate the most revenue?
+
 SELECT 
 	soh.TerritoryID,
 	st.Name,
