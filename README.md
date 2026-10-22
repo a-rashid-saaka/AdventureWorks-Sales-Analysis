@@ -1,4 +1,3 @@
-# AdventureWorks-Sales-Analysis
 
 # AdventureWorks Sales Analysis
 
