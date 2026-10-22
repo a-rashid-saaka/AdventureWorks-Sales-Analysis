@@ -1,3 +1,5 @@
+-- Which products sell the most units?
+
 SELECT TOP 10 
 	p.ProductID,
 	p.Name,
