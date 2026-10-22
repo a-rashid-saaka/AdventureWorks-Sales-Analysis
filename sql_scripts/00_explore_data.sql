@@ -1,0 +1,36 @@
+SELECT *
+FROM INFORMATION_SCHEMA.TABLES;
+
+SELECT 
+TABLE_SCHEMA,
+TABLE_NAME
+FROM INFORMATION_SCHEMA.TABLES
+WHERE TABLE_TYPE = 'BASE TABLE'
+ORDER BY TABLE_SCHEMA;
+
+SELECT TOP 10 *
+FROM Sales.SalesOrderDetail;
+
+SELECT TOP 10 *
+FROM Sales.SalesOrderHeader;
+
+SELECT TOP 10 *
+FROM Sales.Customer;
+
+SELECT TOP 10 *
+FROM Sales.SalesTerritory;
+
+SELECT TOP 10 *
+FROM Production.Product;
+
+SELECT 
+BusinessEntityID,
+COUNT(BusinessEntityID)
+FROM Sales.Store
+GROUP BY BusinessEntityID
+HAVING COUNT(BusinessEntityID) > 1
+;
+
+
+SELECT TOP 10 *
+FROM Sales.Store;
