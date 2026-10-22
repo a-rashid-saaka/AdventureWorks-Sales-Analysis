@@ -1,3 +1,4 @@
+-- How has sales revenue changed over time?
 
 SELECT 
 	YEAR(soh.OrderDate) AS OrderYear,
