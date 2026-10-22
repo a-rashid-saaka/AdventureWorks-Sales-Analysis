@@ -1,3 +1,5 @@
+-- Which products generate the most revenue?
+
 SELECT TOP 10
 	p.ProductID,
 	p.name AS Name, 
