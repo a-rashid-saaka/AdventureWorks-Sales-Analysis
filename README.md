@@ -33,6 +33,15 @@ The objective is to explore product performance, sales trends over time, sales t
 4. **Territory performance:** Southwest generated the highest territory revenue, totaling 24,184,609.60.
 5. **Customer performance:** Brakes and Gears was the highest-revenue customer, generating 877,107.19.
 
+### Investigation of the 2014 Revenue Decline
+
+A comparison of 2013 and 2014 revealed that total revenue declined from 43.62 million to 20.06 million, a decrease of approximately 54.02%.
+
+During the same period, the number of orders fell from 14,182 to 11,761, a decrease of approximately 17.07%. Average revenue per order also declined from approximately 3,075.90 to 1,705.46, a decrease of approximately 44.56%.
+
+These results indicate that the revenue decline coincided with both lower order volume and lower average revenue per order. Further analysis of product mix, order quantities, and pricing would be needed to investigate the underlying causes.
+
+
 ## Business Recommendations
 
 1. **Review high-revenue products:** Investigate the sales drivers behind the Mountain-200 Black, 38, and assess whether similar product variants have comparable performance.
