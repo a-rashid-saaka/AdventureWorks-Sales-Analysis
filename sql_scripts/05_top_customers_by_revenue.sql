@@ -1,3 +1,5 @@
+-- Who are the top 10 customers by total revenue?
+
 SELECT TOP 10
 	c.CustomerID,
 	s.Name,
