@@ -1,4 +1,4 @@
-SELECT 
+SELECT TOP 10
 	p.ProductID,
 	p.name AS Name, 
 	SUM(sod.LineTotal) AS TotalRevenue
