@@ -51,12 +51,13 @@ The `sql_scripts/` folder contains the SQL queries used in the project.
 | `03_annual_revenue.sql` | Calculate annual sales revenue |
 | `04_revenue_by_territory.sql` | Analyze revenue by sales territory |
 | `05_top_customers_by_revenue.sql` | Identify customers generating the most revenue |
-| `06_year_over_year_revenue.sql` | Analyze annual revenue changes and growth rates |
-| `07_top_products_by_year.sql` | Identify the top five products by revenue in each year |
-| `08_product_revenue_change.sql` | Compare product revenue between 2013 and 2014 |
-| `09_territory_performance_change.sql` | Compare revenue and order counts across territories |
-| `10_average_revenue_per_order.sql` | Analyze changes in average revenue per order across territories |
-| `11_average_units_per_order.sql` | Analyze changes in average units sold per order across territories |
+| `06_top_products_by_year.sql` | Identify the top five products by revenue in each year |
+| `07_year_over_year_revenue.sql` | Analyze annual revenue changes and growth rates |
+| `08_average_revenue_per_order.sql` | Analyze changes in average revenue per order between 2013 and 2014 |
+| `09_product_revenue_change.sql` | Compare product revenue between 2013 and 2014 |
+| `10_territory_performance_change.sql` | Compare revenue and order counts across territories |
+| `11_territory_average_revenue_per_order.sql` | Analyze changes in average revenue per order across territories |
+| `12_territory_average_units_per_order.sql` | Analyze changes in average units sold per order across territories |
 
 ## Key Findings
 
