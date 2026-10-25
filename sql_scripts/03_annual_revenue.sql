@@ -8,3 +8,7 @@ JOIN Sales.SalesOrderHeader AS soh
 ON sod.SalesOrderID = soh.SalesOrderID
 GROUP BY YEAR(soh.OrderDate)
 ORDER BY OrderYear;
+
+-- Total Revenue
+SELECT SUM(LineTotal)
+FROM Sales.SalesOrderDetail;
