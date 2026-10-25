@@ -19,11 +19,15 @@ The objective is to explore product performance, sales trends over time, sales t
 - T-SQL
 
 ## SQL Techniques
-- Aggregate functions
+- Aggregate Functions
 - JOINs
 - GROUP BY
 - ORDER BY
 - TOP
+- CTEs
+- Window Functions (LAG, ROW_NUMBER)
+- Conditional Aggregation
+- Percent Change Calculations
 
 ## Key Findings
 
