@@ -55,8 +55,8 @@ The `sql_scripts/` folder contains the SQL queries used in the project.
 | `07_top_products_by_year.sql` | Identify the top five products by revenue in each year |
 | `08_product_revenue_change.sql` | Compare product revenue between 2013 and 2014 |
 | `09_territory_performance_change.sql` | Compare revenue and order counts across territories |
-| `10_average_revenue_per_order.sql` | Analyze changes in average revenue per order |
-| `11_average_units_per_order.sql` | Analyze changes in average units sold per order |
+| `10_average_revenue_per_order.sql` | Analyze changes in average revenue per order across territories |
+| `11_average_units_per_order.sql` | Analyze changes in average units sold per order across territories |
 
 ## Key Findings
 
