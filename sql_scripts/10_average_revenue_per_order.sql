@@ -37,7 +37,8 @@ SELECT
   1.0 * Revenue13/NULLIF(Order13,0) AS AvgRevenue13,
   1.0 * Revenue14/NULLIF(Order14,0) AS AvgRevenue14,
   (1.0 * Revenue14/NULLIF(Order14,0)) - (1.0 * Revenue13/NULLIF(Order13,0))  AS AvgRevenueChange,
-  ((1.0 * Revenue14/NULLIF(Order14,0)) - (1.0 * Revenue13/NULLIF(Order13,0))) * 100.0 /NULLIF((1.0 * Revenue13/NULLIF(Order13,0)), 0) AS AvgRevenueChangePercent
+  ((1.0 * Revenue14/NULLIF(Order14,0)) - (1.0 * Revenue13/NULLIF(Order13,0))) * 100.0
+	/NULLIF((1.0 * Revenue13/NULLIF(Order13,0)), 0) AS AvgRevenueChangePercent
 FROM TerritoryRevenueSummary;
 )
 
