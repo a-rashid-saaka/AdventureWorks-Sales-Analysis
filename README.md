@@ -41,7 +41,7 @@ The analysis progresses from descriptive reporting to diagnostic investigation t
 
 ## SQL Scripts
 
-The `sql_scripts/` directory contains the SQL queries used in the project.
+The `sql_scripts/` folder contains the SQL queries used in the project.
 
 | Script | Purpose |
 |---|---|
